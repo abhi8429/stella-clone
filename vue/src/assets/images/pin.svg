@@ -1,0 +1,9 @@
+<svg width="10" height="10" fill="none" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="pin.svg" version="1.1" viewBox="0 0 10 10" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+ <sodipodi:namedview bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" inkscape:current-layer="svg4" inkscape:cx="3.6067375" inkscape:cy="5.1432105" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="667" inkscape:window-maximized="1" inkscape:window-width="1366" inkscape:window-x="0" inkscape:window-y="27" inkscape:zoom="23.6" objecttolerance="10" pagecolor="#ffffff" showgrid="false"/>
+ <rect x="1.4958e-9" y="-2.7294e-9" width="10" height="10" rx="3" fill="#00c61b"/>
+ <g transform="matrix(.86382 .11039 -.11039 .86382 1.2328 .12894)">
+  <circle cx="3.9485" cy="2.9334" r="1.7373" fill="#fff"/>
+  <rect transform="matrix(.8804 -.47423 .55301 .83317 0 0)" x="1.4156" y="6.1408" width=".28772" height="5.2317" fill="#fff"/>
+  <circle cx="3.3857" cy="2.5844" r=".5543" fill="#00c61b"/>
+ </g>
+</svg>

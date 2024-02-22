@@ -1,0 +1,40 @@
+<template>
+  <div id="edit_archive_model" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="edit_archive_modelLabel" style="display: none;" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content closefriend-modal m-4">
+        <div class="modal-body text-center p-4">
+          <button type="button"  @click="$emit('cancel' )"
+                  style=" margin: -18px -8px 0px 0; font-size: 30px; " class="close"
+                  data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">×</span>
+          </button>
+          <div class="my-3">
+            <p class="font-size-14">Are you sure you want to delete this?</p>
+            <button type="button"  @click="$emit('delete' )"
+              class="btn stella-btn w-100 text-dark btn-danger rounded-pill"
+              >Delete</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</template>
+
+<script>
+export default {
+  name: "ModelDelete",
+  methods: {
+    show() {
+      $('#edit_archive_model').modal();
+    },
+    hide() {
+      $('#edit_archive_model').modal('hide');
+    }
+  }
+}
+</script>
+
+<style scoped>
+
+</style>

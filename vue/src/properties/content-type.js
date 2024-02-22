@@ -1,0 +1,4 @@
+export const CONTENT_TYPE_IMAGE = 'IMAGE';
+export const CONTENT_TYPE_VIDEO = 'VIDEO';
+export const CONTENT_TYPE_APPLICATION = 'APPLICATION';
+export const CONTENT_TYPE_URL = 'URL';
